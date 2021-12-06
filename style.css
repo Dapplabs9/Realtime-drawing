@@ -1,0 +1,19 @@
+.note{
+    font-size: 15px;
+    font-weight: bold;
+    color: darkblue;
+}
+.footer{
+    background-color: white;
+    color: rgb(28, 175, 224);
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+.btn{
+    background-color: white;
+    color: rgb(28, 175, 224);
+}
+body{
+    background-color: rgb(28, 175, 224);
+}
